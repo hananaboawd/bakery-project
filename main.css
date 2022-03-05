@@ -1,0 +1,35 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+/* third section*/
+.section3
+{
+    background-color: #f8f8f8;
+    padding: 40px 67px;
+}
+
+.text2
+{
+    margin-top: 35px;
+    width:50%;
+    text-align: center;
+    float: left;
+}
+.img3 img
+{
+    width:90%;
+    margin-left: 30px;
+}
+.img3
+{
+    width:50%;
+    float: left;
+}
+.clr
+{
+    clear: both;
+}
