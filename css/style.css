@@ -133,18 +133,10 @@ border-radius:5px;
     color:rgb(158, 154, 154) ;
     line-height: 30px;
 } 
-
-.about ul li i{
-    width:20px;
-    color: #6C5340;
-}
 .about span{
     color:rgb(158, 154, 154)  ;
     font-size: 20px;
     margin-top:30px;
-}
-.about ul{
-    list-style-type:none;
 }
 .about li{
     margin-top: 20px;
@@ -243,7 +235,7 @@ iframe{
     font-size:20px;
 }
 .map ul{
-    list-style-type:none;
+   /* list-style-type:none;*/
 }
 .map li{
     margin: 10px;
@@ -269,7 +261,7 @@ iframe{
     width: 40px;
 }
 .b ul{
-    list-style-type:none;
+   /* list-style-type:none;*/
 }
 .b ul a{
     text-decoration: none;
